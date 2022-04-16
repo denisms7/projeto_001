@@ -46,7 +46,9 @@ As respostas as perguntas solicitadas foram encaminhadas em um memorando em form
 2. Após a abertura do arquivo substitua o conteúdo da variável var_caminho pelo caminho do arquivo kc_house_data.csv salvo em sua maquina
 
 Exemplo:
+
 var_caminho = str("SEU CAMINHO")
+
 var_caminho = str("D:\House Sales\kc_house_data.csv")
 
 O arquivo esta pronto para ser utilizado
