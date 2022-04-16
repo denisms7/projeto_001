@@ -28,22 +28,22 @@ As respostas as perguntas solicitadas foram encaminhadas em um memorando em form
 
 ### 📋 Pré-requisitos
 
-1 - Anaconda Navigator
-2 - Leitor de PDF
-3 - Microsoft Excel (Caso deseje abrir o arquivo CSV)
+1. Anaconda Navigator
+2. Leitor de PDF
+3. Microsoft Excel (Caso deseje abrir o arquivo CSV)
 
 
 ### 🔧 Instalação
 
-1 - Crie um ambiente de desenvolvimento no Anaconda Navigator com Python 3.9.12
-2 - Instale no ambiente a biblioteca Pandas
-3 - Selecione o novo ambiente e instale a IDE Jupyter Notebook
+1. Crie um ambiente de desenvolvimento no Anaconda Navigator com Python 3.9.12
+2. Instale no ambiente a biblioteca Pandas
+3. Selecione o novo ambiente e instale a IDE Jupyter Notebook
 
 
 ## ⚙️ Implantação
 
-1 - Após a conclusão da etapa **Instalação** abra o Jupyter Notebook e abra o arquivo codigo_python_kc_house salvo em sua maquina.
-2 – Após a abertura do arquivo substitua o conteúdo da variável var_caminho pelo caminho do arquivo kc_house_data.csv salvo em sua maquina
+1. Após a conclusão da etapa **Instalação** abra o Jupyter Notebook e abra o arquivo codigo_python_kc_house salvo em sua maquina.
+2. Após a abertura do arquivo substitua o conteúdo da variável var_caminho pelo caminho do arquivo kc_house_data.csv salvo em sua maquina
 
 Exemplo:
 var_caminho = str("SEU CAMINHO")
