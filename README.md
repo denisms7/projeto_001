@@ -25,6 +25,7 @@ Após a solicitação a linguagem escolhida para manipulação dos dados foi o P
 
 As respostas as perguntas solicitadas foram encaminhadas em um memorando em formato de PDF assinado digitalmente.
 
+## 🚀 Iniciando
 
 ### 📋 Pré-requisitos
 
