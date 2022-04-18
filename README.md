@@ -63,11 +63,11 @@ O arquivo esta pronto para ser utilizado
 
 ## 🖇️ Colaboradores
 
-Comunidade DS
+[Comunidade DS](https://www.linkedin.com/company/comunidade-ds/)
 
 
 ## ✒️ Autores
 
 Denis Muniz Silva
 
-Comunidade DS
+[Comunidade DS](https://www.linkedin.com/company/comunidade-ds/)
